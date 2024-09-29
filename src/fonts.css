@@ -1,0 +1,9 @@
+@font-face {
+    font-family:'grotes';
+    src: url('./fonts/FoundersGrotesk-Semibold.ttf');
+}
+
+@font-face {
+    font-family: 'montreal';
+    src: url('./fonts/NeueMontreal-Regular.ttf');
+}
